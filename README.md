@@ -1,4 +1,3 @@
-## Instructor Information Web Scraper (AUTH)
 
 This project demonstrates a simple web scraping workflow in Python.  
 It collects instructor data (titles, names, last names, and email addresses) from the Applied Biology Department of Aristotle University of Thessaloniki.
